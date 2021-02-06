@@ -1,0 +1,38 @@
+.boxed{
+  border: 2px solid;
+  border-color: green;
+  border-spacing: 10px;
+  padding: 60px 64px 64px 60px;;
+  border-radius: 50px;
+}
+.container{
+
+  padding: 30px 20px 25px 12px;
+}
+.btn{
+				background-color: #4CAF50;
+  				border: none;
+          float: left;
+  				color: white;
+  				padding: 12px 22px;
+  				text-align: center;
+  				text-decoration: none;
+  				display: inline-block;
+  				font-size: 12px;
+  				margin: 4px 2px;
+ 				cursor: pointer;
+			}
+    .res{
+      text-align: center;
+      border:2px dotted;
+      border-radius: 50px;
+      border-color:green;
+      padding: 10px 14px;
+
+    }
+    h1{
+      font-style: oblique;
+      font-size: 220px;
+      font-weight: bold;
+      font-family: sans-serif;
+    }
